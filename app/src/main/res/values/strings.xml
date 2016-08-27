@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestLogin</string>
+    <string name="usrname">用户名</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="content">内容内容内容</string>
+    <string name="subtitle">副标题</string>
+    <string name="title">标题</string>
+</resources>
